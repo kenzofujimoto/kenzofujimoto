@@ -100,7 +100,8 @@ I do **not** claim to have created Caveman, reproduced its benchmarks or measure
 | --- | --- | --- |
 | [Antigravity Kit](https://github.com/vudovn/antigravity-kit) | Agent roles, slash commands, workflow structure | Upstream project; my private kit contains adaptations |
 | [Caveman](https://github.com/JuliusBrussee/caveman) | Compact tool results and context efficiency | Third party |
-| [Matt Pocock's skills](https://github.com/mattpocock/skills) | Focused, small, reviewable agent skills | Third party |
+| [Matt Pocock's skills](https://github.com/mattpocock/skills) | Domain vocabulary, TDD, diagnostics, specs and architectural feedback loops | Third-party reference, not bundled |
+| [Superpowers by obra](https://github.com/obra/superpowers) | Brainstorming, plan-first development, worktrees, subagents and verification | Third-party reference, not bundled |
 | [My agent-skills](https://github.com/kenzofujimoto/agent-skills) | Published skill packaging, validation and docs | My maintained repository; includes credited upstream material |
 
 ## Portfolio mapping
