@@ -16,6 +16,8 @@ I turn problems I encounter at work, university and in communities into usable s
 
 My focus is **AI-powered products, developer tools, operational automation and security-aware engineering**. Rather than showcasing a long list of technologies, these are the problems I am building for:
 
+[**Explore technical case studies →**](CASE_STUDIES.md) · Problems, architecture, trade-offs, verification and honest project status.
+
 ## Selected projects
 
 | Product | Problem → solution | Evidence |
