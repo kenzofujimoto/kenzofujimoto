@@ -57,7 +57,7 @@ Do not assert that a vulnerability is fixed until the test verifies it.
 Block deployment on unresolved critical findings.
 ```
 
-**Demonstrated in:** KlinikSys security checks and KOps read-only design; these are examples of safeguards, not a certification that any product is vulnerability-free.
+**Demonstrated in:** KlinikSys security checks and K-Ops read-only design; these are examples of safeguards, not a certification that any product is vulnerability-free.
 
 ## 3. MCP-based commercial research: research ≠ permission to send
 
@@ -108,7 +108,7 @@ I do **not** claim to have created Caveman, reproduced its benchmarks or measure
 - **[KlinikSys](https://kliniksys.com):** offline-first constraints, automated testing, security boundaries.
 - **[Mackenzo](https://www.mackenzo.com/):** RAG, document ingestion and answer grounding.
 - **[EcoCrachá](https://www.ecocracha.com/):** multilingual product, 3D customization, MCP-assisted prospecting.
-- **KOps (private):** least-privilege, read-only operational integrations.
+- **K-Ops (private):** least-privilege, read-only operational integrations.
 - **[OpenEMS](https://github.com/kenzofujimoto/openems-server):** open-source endpoint-management design and implementation.
 
 *Last curated for portfolio presentation: November 2026. Follow each upstream project's license and current documentation.*
