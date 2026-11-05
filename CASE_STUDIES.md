@@ -28,7 +28,7 @@ These public summaries describe **problems, engineering decisions and technical 
 
 **Status / evidence.** [Live site](https://www.mackenzo.com/) · Source private · Educational project, not an official university service.
 
-## 3. KOps — Read-only security operations prototype
+## 3. K-Ops — Read-only security operations prototype
 
 **Problem.** Security teams often need to cross-reference identity posture, vulnerabilities and endpoint coverage across multiple tools before deciding which items deserve attention.
 
