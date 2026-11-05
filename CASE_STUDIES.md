@@ -38,7 +38,7 @@ These public summaries describe **problems, engineering decisions and technical 
 
 **Role.** Independent architecture and development, with AI-assisted engineering.
 
-**Status / evidence.** Private technical work. This case study intentionally excludes company data, integrations' credentials, internal URLs, live metrics and adoption claims. Not described as an officially deployed corporate system.
+**Status / evidence.** [Public demonstration video](https://youtu.be/7g3UDRbYeJY) · Private technical work. This case study intentionally excludes company data, integrations' credentials, internal URLs, live metrics and adoption claims. Not described as an officially deployed corporate system.
 
 ## 4. OpenEMS Server — Open-source endpoint management
 
